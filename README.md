@@ -30,13 +30,13 @@ This project utilizes Python and OpenCV using PyCharm to create an automated stu
 
    
    ```bash
-   python AttendanceRecord.py
+   python Attendance.py
    
    
 ## Files
 
 - Dataset.py: Script to collect training data (name, ID, and face images).
-- AttendanceRecord.py: Runs the real-time face recognition for attendance.
+- Attendance.py: Runs the real-time face recognition for attendance.
 - haarcascade_frontalface_default.xml: Pre-trained face detection model used by OpenCV for webcam processing.
 - attendance.csv: Stores attendance records with up-to-date time and date format.
 - CV project.png: Background image used in the application interface.
