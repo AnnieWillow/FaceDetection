@@ -16,11 +16,13 @@ This project utilizes Python and OpenCV using PyCharm to create an automated stu
 ## Usage
 1. Training Mode: Run Dataset.py to register student data by entering their name and ID.
    
+   ```bash
    python Dataset.py
    - The system trains the model using the provided data.
 
-2. Attendance Mode: Run AttendanceRecord.py to track attendance with face recognition.
-
+3. Attendance Mode: Run AttendanceRecord.py to track attendance with face recognition.
+   
+   ```bash
    python AttendanceRecord.py
    - Press 'O' to record attendance when the system recognizes a student.
    - Press 'Q' to exit the system.
