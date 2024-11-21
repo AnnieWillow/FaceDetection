@@ -18,6 +18,7 @@ This project utilizes Python and OpenCV using PyCharm to create an automated stu
    
    * The system trains the model using the provided data.
 
+
     ```bash
    python Dataset.py
    
@@ -26,6 +27,7 @@ This project utilizes Python and OpenCV using PyCharm to create an automated stu
    
    * Press 'O' to record attendance when the system recognizes a student.
    * Press 'Q' to exit the system.
+
    
    ```bash
    python AttendanceRecord.py
