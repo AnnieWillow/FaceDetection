@@ -25,7 +25,8 @@ This project utilizes Python and OpenCV using PyCharm to create an automated stu
    
    ```bash
    python AttendanceRecord.py
-   
+
+   After running the command, the system will:
    - Press 'O' to record attendance when the system recognizes a student.
    - Press 'Q' to exit the system.
   
